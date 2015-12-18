@@ -20,6 +20,9 @@
     "bootstrap",
     "ui"
   ],
+  "main": [
+    "dist/jquery.bootstrap-touchspin.js"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
